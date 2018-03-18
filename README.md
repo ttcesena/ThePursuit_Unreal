@@ -1,2 +1,2 @@
 # ThePursuit_Unreal
-The Pursuit Fully Playable Game using Unreal
+Showcasing the AI used for the game
